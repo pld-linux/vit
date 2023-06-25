@@ -1,11 +1,11 @@
 Summary:	Lightweight, fast, curses-based front end to Taskwarrior
 Name:		vit
-Version:	2.3.0
+Version:	2.3.1
 Release:	1
 License:	MIT
 Group:		Applications
 Source0:	https://github.com/vit-project/vit/archive/v%{version}/%{name}-%{version}.tar.gz
-# Source0-md5:	149b8e9aa2b0c919b0007e319d03ff66
+# Source0-md5:	fdfafaf44d74a46495c8e5d34b3ddfa9
 URL:		https://github.com/vit-project/vit/releases
 BuildRequires:	python3 >= 1:3.7
 BuildRequires:	python3-modules >= 1:3.7
